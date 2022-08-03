@@ -1,0 +1,20 @@
+*{
+    background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+.clear{
+    background-color: antiquewhite;
+}
+
+.coloredIn{
+    background-color: black;
+}
